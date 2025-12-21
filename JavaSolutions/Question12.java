@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Main {
+public class Question12 {
   public static boolean isTriangle(int n) {
 
     long start = 0;
