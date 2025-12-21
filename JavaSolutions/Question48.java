@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question48 {
   public static void main(String[] args) {
 
     BigInteger total = BigInteger.ZERO; //Initialises total to 0 in BigInteger form
