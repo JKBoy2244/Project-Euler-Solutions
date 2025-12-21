@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.math.BigInteger;
 import java.util.HashSet;
 
-public class Main {
+public class Question45 {
 
   static HashSet<BigInteger> Triangular = new HashSet<BigInteger>();//Creates an initial hashSet for triangular numbers
   static HashSet<BigInteger> Pentagonal = new HashSet<BigInteger>();//Creates an initial hashSet for pentagonal numbers
