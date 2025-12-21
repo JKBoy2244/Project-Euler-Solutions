@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.BigInteger;//BigInteger imported
 
 
-public class Main {
+public class Question20 {
   public static void main(String[] args) {
 
     BigInteger Timestotal = BigInteger.valueOf(100);//Sets the value to 100 determining what factorial we are trying to calculate like 100
