@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.BigInteger;
 import java.util.HashSet;
 
-public class Main {
+public class Question53 {
   static HashSet<Integer> values = new HashSet<Integer>();
 
   public static int countCombinationsGreaterThanMillion(int n) {
