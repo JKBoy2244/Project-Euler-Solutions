@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question3 {
   public static boolean isPrime(int n) { //This method checks for prime numbers.
     
     if (n <= 1) { //If n <= 1, boolean is false because it isn't prime as 1 has only 1 factor and rest of thr numbers are invalid.
