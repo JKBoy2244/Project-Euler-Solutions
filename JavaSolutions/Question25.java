@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question25 {
   public static void main(String[] args) {
 
     BigInteger a; //Initialises the variable a as BigInteger
