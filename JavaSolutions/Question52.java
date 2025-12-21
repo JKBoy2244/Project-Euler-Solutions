@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.HashSet;
 import java.util.Arrays;
 
-public class Main {
+public class Question52 {
 
   static HashSet<Long> digitsSame = new HashSet<Long>();
   public static boolean isDigitsSame(long a) { 
