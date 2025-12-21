@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question10 {
   public static boolean isPrime(long n) {//Same method with explanations already explained in previous problems
 
     if (n <= 1) {
