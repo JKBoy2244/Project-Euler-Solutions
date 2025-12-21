@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question56 {
   public static void main(String[] args) {
 
     BigInteger maxDigitsTotal = BigInteger.ZERO; //Initialises maxDigitsTotal as 0
