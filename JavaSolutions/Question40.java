@@ -1,4 +1,4 @@
-public class Main {
+public class Question40 {
     public static void main(String[] args) {
         StringBuilder value = new StringBuilder();
         int i = 1;
