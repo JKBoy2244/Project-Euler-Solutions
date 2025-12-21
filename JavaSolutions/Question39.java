@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question39 {
   public static void main(String[] args) {
 
     long maxSolutions = 0; //Initialises maxSolutions as 0
