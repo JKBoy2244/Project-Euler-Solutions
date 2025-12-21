@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.HashSet;
 import java.math.BigInteger;
 
-public class Main {
+public class Question29 {
   public static void main(String[] args) {
 
     HashSet<BigInteger> Integers = new HashSet<BigInteger>(); //Creates an arraylist in a way only unique values can be stored so no repeated values alowed anywehre within the arrayList
