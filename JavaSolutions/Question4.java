@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question4 {
   public static boolean palindrome(int n) {
     String numStr = String.valueOf(n);//Converts int to string
     int left = 0;
