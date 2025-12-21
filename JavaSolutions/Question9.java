@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question9 {
   public static boolean isPythagorean(long n) {//Program checks if a value is pythagorean and also if a+b+c=1000 anyways
 
     for (long i = 1; i <(n); i++) {//Iterates through the loop each time from 1 to a specified n value
