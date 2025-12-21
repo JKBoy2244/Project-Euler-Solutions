@@ -4,7 +4,7 @@ import static org.junit.Assert.fail;
 
 import java.util.ArrayList;
 
-public class Main {
+public class Question50 {
 
   static ArrayList<Long> Primes = new ArrayList<Long>();
   static long terms = 0;
