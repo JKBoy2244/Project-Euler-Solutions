@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question63 {
   public static void main(String[] args) {
 
     int count = 0;
