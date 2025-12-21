@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question2 {
   public static void main(String[] args) {
 
     int a = 1; //Initialises a to 1
