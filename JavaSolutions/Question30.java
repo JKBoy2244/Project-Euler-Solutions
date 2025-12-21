@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.BigInteger;
 
 
-public class Main {
+public class Question30 {
   public static boolean FifthPower(BigInteger n) {
 
     if (n.compareTo(BigInteger.ONE) == 0) {
