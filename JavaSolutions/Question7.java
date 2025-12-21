@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Main {
+public class Question7 {
 
   public static boolean prime(int n) {//Method for checking if numbers are prime or not
 
