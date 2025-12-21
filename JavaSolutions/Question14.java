@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question14 {
   public static long Iterative(long n) { //This is the collatz Sequence method
 
     long terms = 1; //Initialises the number of terms as 1
