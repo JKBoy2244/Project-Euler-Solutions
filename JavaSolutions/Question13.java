@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.BigInteger;
 import java.util.ArrayList;
 
-public class Main {
+public class Question13 {
   public static void main(String[] args) {
 
     ArrayList<BigInteger>Numbers = new ArrayList<BigInteger>();//Initialises arrayList of numbers as empty for not
