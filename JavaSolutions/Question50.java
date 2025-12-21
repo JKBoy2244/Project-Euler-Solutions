@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import static org.junit.Assert.fail;
+//import static org.junit.Assert.fail;
 
 import java.util.ArrayList;
 
