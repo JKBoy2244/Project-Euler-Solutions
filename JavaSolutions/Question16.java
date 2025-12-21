@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question16 {
   public static void main(String[] args) {
 
    BigInteger total = BigInteger.valueOf(2).pow(1000); //2^100 is greater than 2^63-1 so BigInteger type has to be used instead of long to calculate precisely 2^100
