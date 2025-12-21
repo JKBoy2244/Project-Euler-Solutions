@@ -1,6 +1,6 @@
 import java.util.*;  // Import utility classes like ArrayList and Collections
 
-public class Main {
+public class Question41 {
 
     // Main method: this is the entry point of the program
     public static void main(String[] args) {
