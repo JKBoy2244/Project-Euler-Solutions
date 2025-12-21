@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashSet;
 
-public class Main {
+public class Question21 {
 
   static HashSet<Long> Amicables = new HashSet<Long>();//This hashset is used to find all amicable numbers less than 10,000 which are all unique(not repeated)
 
