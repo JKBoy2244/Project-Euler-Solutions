@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Question97 {
   public static void main(String[] args) {
 
     BigInteger Number1 = (BigInteger.valueOf(2)).pow(7830457);//Program calculates number1 as 2 to the power of 7830457
