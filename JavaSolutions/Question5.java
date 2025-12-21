@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question5 {
   public static boolean AllDivisible(int n) {//This method checks if a particular number is divisible by all the i values from 1 to a certain number like 20 and if so, it returns true so it is.
 
     for (int i = 1; i <= 20; i++) {//Iterates from 1 to 20 each time
