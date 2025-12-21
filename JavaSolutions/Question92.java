@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.BigInteger;
 import java.util.ArrayList;
 
-public class Main {
+public class Question92 {
 
   static ArrayList<BigInteger> ONEs = new ArrayList<BigInteger>();//Initialises an arrayList for storing numbers arriving at 1s only
   static ArrayList<BigInteger> EIGHTYNINEs = new ArrayList<BigInteger>();//Initialises an arrayList for storing numbers arriving at 89s only
