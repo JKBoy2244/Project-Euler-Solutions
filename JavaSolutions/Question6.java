@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Question6 {
   public static void main(String[] args) {
 
     int total1 = 0; //Initialises the 3 totals from total1 to total3
